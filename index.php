@@ -22,7 +22,7 @@ For more information, please refer to <https://unlicense.org>
 -->
 <html>
     <head>
-        <meta charset="utf-8">
+        <meta charset="UTF-8">
         <title>Web UI</title>
     </head>
     <body>
